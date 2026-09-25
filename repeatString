@@ -1,3 +1,11 @@
 n= int(input("Enter value of n:"))
 for i in range(n):
   print("Good morning")
+
+
+p= int(input("Enter your age sir:"))
+z= int(input("Enter your name sir:"))
+
+q=100-p
+
+print("'z' You will turn 100 years old in", q)
