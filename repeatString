@@ -1,1 +1,3 @@
-print("hello")
+n= int(input("Enter value of n:"))
+for i in range:
+  print("Good morning")
