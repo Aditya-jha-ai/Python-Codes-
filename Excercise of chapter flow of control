@@ -10,3 +10,9 @@ if age>=18:
 
 else:
   print("You are not alligible as you are under 18") 
+#3
+n=int(input("Enter a number:"))
+i=0
+for i in range(1,11):
+  i=n*i
+  print(i) 
