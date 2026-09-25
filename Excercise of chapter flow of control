@@ -1,0 +1,12 @@
+#1
+for letter in "python":
+    print(python)
+#2
+name = str(input("Enter your Name :"))
+age=int(input("Enter your age:"))
+
+if age>=18:
+  print("You are alligible for licence:")
+
+else:
+  print("You are not alligible as you are under 18") 
