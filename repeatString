@@ -8,4 +8,4 @@ z= int(input("Enter your name sir:"))
 
 q=100-p
 
-print("'z' You will turn 100 years old in", q)
+print( z,"You will turn 100 years old in", q)
